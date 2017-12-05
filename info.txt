@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 test1
 test2test3
 test4
 test5
 master branch Write
+=======
+mybranch to info
+>>>>>>> mybranch
