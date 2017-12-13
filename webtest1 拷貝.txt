@@ -1,7 +1,4 @@
 web create!
 modify from web!
-<<<<<<< HEAD
 ttt
-=======
 modify from web2!
->>>>>>> 53602871ca60763abf1f65c51297658a20f98293
